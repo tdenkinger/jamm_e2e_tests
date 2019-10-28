@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://jamm.bo/api/v2",
+    "env": {
+        "token": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOiIyMDE5LTEwLTI1VDE3OjQ5OjE1WiIsInVzZXIiOnsiaWQiOjQ3LCJ1c2VybmFtZSI6InRyb3kiLCJmdWxsX25hbWUiOiJUcm95IERlbmtpbmdlciIsInByb2ZpbGVfaW1hZ2UiOiJodHRwczovL2phbW0tYXNzZXRzLnMzLXVzLXdlc3QtMS5hbWF6b25hd3MuY29tL1JZZTI_Y2FjaGU9aGhiVFlNQmxCWiIsImphbW1faWQiOm51bGwsInVuaXF1ZV9pZCI6IlJZZTIiLCJqYW1tcyI6bnVsbCwiaXNfdmVyaWZpZWQiOmZhbHNlfX0.A278AQEPFr2MBPR7L225yU0UNYCnRYalyAD-sKaynQg"
+    }
+}
